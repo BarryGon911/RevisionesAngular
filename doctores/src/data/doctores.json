@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1001,
+    "nombre": "Dra. Mariana Torres Del Campo",
+    "especialidad": "Cardiología",
+    "antiguedad": 12,
+    "ciudad": "Ciudad de México",
+    "telefono": "(55) 1234-5678",
+    "foto": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": 1002,
+    "nombre": "Dr. Juan Camaney Shingón",
+    "especialidad": "Neurocirugía & Angiología",
+    "antiguedad": 35,
+    "ciudad": "Guadalajara",
+    "telefono": "(33) 9876-5432",
+    "foto": "https://randomuser.me/api/portraits/men/55.jpg"
+  },
+  {
+    "id": 1003,
+    "nombre": "Dra. Begonia Casas Becerra",
+    "especialidad": "Pediatría & Alergología Pediátrica",
+    "antiguedad": 20,
+    "ciudad": "Aguascalientes",
+    "telefono": "(449) 123-4567",
+    "foto": "https://randomuser.me/api/portraits/women/65.jpg"
+  },
+  {
+    "id": 1004,
+    "nombre": "Dr. Fernando Rivas",
+    "especialidad": "Gastroenterología",
+    "antiguedad": 10,
+    "ciudad": "Querétaro",
+    "telefono": "(442) 123-4567",
+    "foto": "https://randomuser.me/api/portraits/men/64.jpg"
+  },
+  {
+    "id": 1005,
+    "nombre": "Dra. Laura Mendoza Saavedra",
+    "especialidad": "Ginecología",
+    "antiguedad": 14,
+    "ciudad": "Puebla",
+    "telefono": "(222) 456-7890",
+    "foto": "https://randomuser.me/api/portraits/women/32.jpg"
+  },
+  {
+    "id": 1006,
+    "nombre": "Dr. Andrés López Dóriga",
+    "especialidad": "Dermatología",
+    "antiguedad": 11,
+    "ciudad": "León",
+    "telefono": "(477) 321-6543",
+    "foto": "https://randomuser.me/api/portraits/men/75.jpg"
+  },
+  {
+    "id": 1007,
+    "nombre": "Dra. Paula Ortega Quiróz",
+    "especialidad": "Oftalmología",
+    "antiguedad": 17,
+    "ciudad": "Toluca",
+    "telefono": "(722) 987-1234",
+    "foto": "https://randomuser.me/api/portraits/women/12.jpg"
+  },
+  {
+    "id": 1008,
+    "nombre": "Dr. Ricardo Salazar Medina",
+    "especialidad": "Ortopedia",
+    "antiguedad": 13,
+    "ciudad": "San Luis Potosí",
+    "telefono": "(444) 654-3210",
+    "foto": "https://randomuser.me/api/portraits/men/28.jpg"
+  },
+  {
+    "id": 1009,
+    "nombre": "Dra. Andrea Núñez Jackson",
+    "especialidad": "Psiquiatría",
+    "antiguedad": 16,
+    "ciudad": "Mérida",
+    "telefono": "(999) 112-3344",
+    "foto": "https://randomuser.me/api/portraits/women/50.jpg"
+  },
+  {
+    "id": 1010,
+    "nombre": "Dr. Miguel Herrera Juárez",
+    "especialidad": "Urología",
+    "antiguedad": 9,
+    "ciudad": "Tijuana",
+    "telefono": "(664) 778-8899",
+    "foto": "https://randomuser.me/api/portraits/men/11.jpg"
+  },
+  {
+    "id": 1011,
+    "nombre": "Dra. Renata Villalobos Beltrán",
+    "especialidad": "Endocrinología",
+    "antiguedad": 11,
+    "ciudad": "Chihuahua",
+    "telefono": "(614) 543-2109",
+    "foto": "https://randomuser.me/api/portraits/women/23.jpg"
+  },
+  {
+    "id": 1012,
+    "nombre": "Dr. Esteban Castillo Peraza",
+    "especialidad": "Medicina Interna",
+    "antiguedad": 23,
+    "ciudad": "Aguascalientes",
+    "telefono": "(449) 765-4321",
+    "foto": "https://randomuser.me/api/portraits/men/39.jpg"
+  }
+]

@@ -1,0 +1,40 @@
+<div class="container py-4 d-flex justify-content-center">
+  <div class="w-100" style="max-width: 100%;">
+    <h2 class="mb-4 text-center">Lista de Doctores</h2>
+
+    <div class="table-responsive">
+      <table class="table table-bordered table-hover align-middle text-center">
+        <thead class="table-primary">
+          <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Edad</th>
+            <th scope="col">Sueldo</th>
+            <th scope="col">Antigüedad</th>
+            <th scope="col">Foto</th>
+       
+            
+          </tr>
+        </thead>
+        <tbody>
+          @for (empleado of misEmpleados; track empleado.id) {
+            <tr>
+              <td>{{ empleado.id }}</td>
+              <td>{{ empleado.nombre }}</td>
+              <td>{{ empleado.especialidad }}</td>
+              <td>{{ empleado.antiguedad }} año{{ empleado.antiguedad > 1 ? 's' : '' }}</td>
+              <td>{{ empleado.ciudad }}</td>
+              <td>{{ empleado.telefono }}</td>
+              <td>
+                <img [src]="empleado.foto"
+                     class="rounded-circle shadow-sm"
+                     width="60" height="60"
+                     alt="Foto de {{ empledo.nombre }}">
+              </td>
+            </tr>
+          }
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
